@@ -27,3 +27,13 @@ This repository contains implementations of various deep learning experiments us
 - `10_NIFTY.py` / `10_tensor.py` - Stock price prediction
 - `11_Machine_Translation.py` / `11_tensorflow.py` - English-Hindi translation
 
+## 🤝 Contributing
+
+This is an academic project for S7 Deep Learning lab. Programs are designed for educational purposes and demonstrate core Neural Network concepts.
+
+## 📄 License
+
+Educational use only - S7 DL Laboratory Programs
+
+---
+*Developed for Deep Learning Laboratory - 7th Semester AI & ML*
