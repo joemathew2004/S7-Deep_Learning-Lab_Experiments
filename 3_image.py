@@ -61,7 +61,7 @@ def show_images(images, titles, rows=3, cols=2):
 
 
 if __name__ == "__main__":
-    image_path = "sample3.png"
+    image_path = "3_sample_image.png"
 
     rgb_image, gray_tensor, gray_pil = load_image(image_path)
     equalized_tensor = histogram_equalization(gray_tensor)
@@ -75,3 +75,4 @@ if __name__ == "__main__":
         rows=3,
         cols=2
     )
+
