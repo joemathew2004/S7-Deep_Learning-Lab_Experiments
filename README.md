@@ -27,6 +27,11 @@ This repository contains implementations of various deep learning experiments us
 - `10_NIFTY.py` / `10_tensor.py` - Stock price prediction
 - `11_Machine_Translation.py` / `11_tensorflow.py` - English-Hindi translation
 
+### Additional Files
+- `z_labexam.py` - Lab exam question: Spam Detection using GRU
+- `sample3.png` - Sample output/visualization
+- `viva.docx` / `viva 2.docx` - Viva questions and answers
+
 ## 🤝 Contributing
 
 This is an academic project for S7 Deep Learning lab. Programs are designed for educational purposes and demonstrate core Neural Network concepts.
