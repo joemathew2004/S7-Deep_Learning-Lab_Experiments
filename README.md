@@ -19,7 +19,7 @@ morphological operations
 ### 3. Convolutional Neural Networks
 - `6_Digit.py` / `6_tensor.py` -  Convolutional Neural Network (CNN) for digit classification
 on the MNIST dataset
-- `7_Digit_VGGNet.py` / `7_tensor.py` - VGGNet-19 implementation for digit classification for MNIST dataset
+- `7_Digit_VGGNet.py` / `7_tensor__.py` - VGGNet-19 implementation for digit classification for MNIST dataset
 
 ### 4. Recurrent Neural Networks
 - `8_RNN_imdb_kaggle.py` / `8_tensor.py` - Recurrent Neural Network (RNN) for review classification on the IMDB dataset
@@ -32,7 +32,7 @@ on the MNIST dataset
 ### Additional Files
 - `3_sample_image.png` - Sample image for experiment 3
 - `z_labexam.py` - Lab exam question: Spam Detection using GRU
-- `viva.docx` / `viva 2.docx` - Viva questions and answers for lab exam
+- `viva.docx` - Viva questions and answers for lab exam
 
 ## 🤝 Contributing
 
